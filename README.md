@@ -14,7 +14,7 @@ The frozen MATLAB source and configuration files regenerate the paper's finite-h
 
 ## Quick reproduction
 
-Run from the repository root. First validate the files:
+Download `CRIF_minimal_reproduction.zip` from this repository, extract it to a new directory, and run the following commands from the extracted directory. First validate the files:
 
 ```text
 python verify_package.py
